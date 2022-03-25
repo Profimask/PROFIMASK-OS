@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #0067b8;
+    color: rgb(255, 255, 255);
+    height: 65px;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: 'Roboto', sans-serif;
+}
+.paragraph{
+    background-color: #c1b8b8;
+    color: rgb(0, 0, 0);
+    height: 65px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: 'Roboto', sans-serif;
+
+}
+    
+    .paragraph2{
+    color: #0067b8;
+    height: 50px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: 'Roboto', sans-serif;
+    }
+    .paragraph3{
+    color: #000000;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: 'Roboto', sans-serif;
+    }
+
+    .buttons button{
+        border-radius: 0;
+        display: inline-block;
+        font-size: 1em;
+        font-weight: 700;
+        line-height: normal;
+        padding: 0.5em 3.5em;
+        margin-right: 0.8em;
+        background-color: #0067b8;
+        color: #fff;
+        margin: 10px;
+        cursor: pointer;
+        font-family: 'Roboto', sans-serif;
+    }
+    .buttons button:hover{
+        color: #fff;
+        background-color:#0b3657;
+
+    }
+    .paragraph4{
+        color: #0067b8;
+        height: 50px;
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        padding: 0 12px;
+        font-family: 'Roboto', sans-serif;
+    }
+    .paragraph5{
+        color: #000000;
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+        padding: 0 12px;
+        font-family: 'Roboto', sans-serif;
+
+    }
+    .button2 button{
+        border-radius: 0;
+        display: inline-block;
+        font-size: 1em;
+        font-weight: 700;
+        line-height: normal;
+        padding: 0.5em 3.5em;
+        margin-right: 0.8em;
+        background-color: #0067b8;
+        color: #fff;
+        margin: 10px;
+        cursor: pointer;
+        font-family: 'Roboto', sans-serif;
+    }
+    .button2 button:hover{
+        color: #fff;
+        background-color:#0b3657;
+    }
+
+    .Terms{
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+        padding: 0 12px;
+        font-family: 'Roboto', sans-serif;
+
+    }
